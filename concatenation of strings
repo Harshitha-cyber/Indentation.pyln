@@ -1,0 +1,6 @@
+boyname = input("boy name: ")
+boyage  =  input("boy age: ")
+girlname =  input("girl name: ")
+girlage =  input("girl age:" )
+age_difference = int(boyage) - int(girlage)
+print(boyname + " hates the girl " + girlname + ", they had age difference of " + str(age_difference))
