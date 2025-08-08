@@ -1,0 +1,7 @@
+a = 22
+a += 34
+print(a)
+a *= 78
+print(a)
+a -= 45
+print(a)
